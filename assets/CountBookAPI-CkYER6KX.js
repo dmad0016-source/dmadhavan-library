@@ -1,0 +1,1 @@
+import{i as n,c as e,t as r,r as s,o as a}from"./index-BKIImmys.js";const i={__name:"CountBookAPI",setup(l){const t=s(null),o=async()=>{{t.value=JSON.stringify({error:"VITE_COUNT_BOOKS_URL is not set"},null,2);return}};return n(()=>{o()}),(u,c)=>(a(),e("pre",null,r(t.value),1))}};export{i as default};
